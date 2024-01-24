@@ -24,6 +24,12 @@ To access a specific project, navigate to the corresponding folder in the reposi
 2. Change into the project directory of your choice:
     ```bash 
       cd Next-Projects-Hub/project-name
-3. Follow the instructions in the project's README to set up and run the application.
+3. install all the dependencies of the project:
+    ```bash 
+      npm i
+4. run the project:
+    ```bash 
+      npm run dev
+. Follow the instructions in the project's README to set up and run the application.
 ### Happy coding! 🚀
 
