@@ -12,8 +12,8 @@ function Hero() {
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-black lg:max-w-lg font-bold leading-[120%]">
-        Dive into  
-      <span className="red-gradient">the world of</span> anime wonders
+        Dive Into  
+      <span className="red-gradient">The World of </span> Anime Wonders
         </h1>
       </div>
       <div className="lg:flex-1 relative w-full h-[50vh] justify-center">
