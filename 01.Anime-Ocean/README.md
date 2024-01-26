@@ -1,13 +1,9 @@
 # Anime-Ocean
-<<<<<<< HEAD
 Next.js 14 project showcasing Server Actions and Framer Motion animations made with cource and customization.
-![capture]
-** Dive in:**
-=======
-Next.js 14 project showcasing Server Actions and Framer Motion animations
 
-** Dive in: **
->>>>>>> 21cb36fefbb84e79a95c590ca1e6d657dfa03162
+** Dive in:**
+
+Next.js 14 project showcasing Server Actions and Framer Motion animations
 - Go to this specific project
 - Install dependencies: npm install
 - Start dev server: npm run dev
