@@ -6,11 +6,12 @@ import { useState } from "react";
 import { fetchAnime } from "@/app/action";
 import AnimeCard from "./AnimeCard";
 
-let page=2;
+
+let page=2; 
 export type AnimeCard=JSX.Element;
 function LoadMore() {
   const {ref , inView} =useInView();
-const [data,setData]=useState<AnimeProp[]>([]);
+const [data,setData]=useState<AnimeCard[]>([]);
   useEffect(()=>{
     if(inView){
       fetchAnime(page)
