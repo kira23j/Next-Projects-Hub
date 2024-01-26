@@ -1,7 +1,7 @@
 # Anime-Ocean
 Next.js 14 project showcasing Server Actions and Framer Motion animations made with cource and customization.
 
-** Dive in:**
+[demo](https://anime-ocean.vercel.app)
 
 Next.js 14 project showcasing Server Actions and Framer Motion animations
 - Go to this specific project
