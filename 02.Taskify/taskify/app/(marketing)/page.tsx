@@ -30,7 +30,7 @@ const MarketingPage = () => {
 <div className={cn("text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto ",textFont.className)}>Collaborate, manage projects, and reach new productivity peaks. from high rises to the home office, the way your teams works is unique - accomplish all with taskify</div>
 <div>
     <Button className="mt-6 size:lg asChild ">
-        <Link href="/signup">
+        <Link href="/sign-up">
     Get Taskify for free
         </Link>
         </Button>
